@@ -1,0 +1,2 @@
+Prefix plugins/PredictCoverage/example/
+Plugin PredictCoverage inputfile parameters.txt outputfile coverage.pdf
